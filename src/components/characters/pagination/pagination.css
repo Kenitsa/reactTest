@@ -1,0 +1,20 @@
+.charactersPagination{
+    margin-left: 70px;
+}
+.paginBtn{
+border: none;
+outline: none;
+padding: 6px 12px;
+padding-right: 10px;
+margin-left: 15px;
+margin-right: 9px;
+background: #606F7B;
+border-radius: 100px;
+color: white;
+font-size: 17px;
+width: 70px;
+}
+.paginBtn:hover{
+    color: #707070;
+    background: #E1E5E8;
+}
